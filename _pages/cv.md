@@ -1,6 +1,6 @@
 ---
 title: "CV"
-excerpt: "Brit B. Laginhas CV<br/><img src='/images/cv.jpeg'>"
+excerpt: "Brit B. Laginhas CV"
 collection: pages
 ---
 
